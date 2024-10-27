@@ -1,0 +1,94 @@
+*{
+  background-color: white ;
+}
+
+.navbar-brand{
+  color: #525efa !important ;
+
+}
+.number{
+  color: #525efa !important ;
+
+}
+.topics{
+    font-family: "Poppins", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+
+}
+
+.trybtn{
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.flex1{
+  max-width: fit-content;
+}
+
+.colum1{
+  font-size: 7vh;
+}
+
+.paragraphs{
+  color: #a5a5a5;
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: n;
+  font-style: normal;
+}
+.paragraphspl{
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.btn2{
+  font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.form-control::placeholder{
+  color: #cccc;
+}
+
+.setopics{
+  font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.card-title{
+  font-family: "Poppins",sans-serif;
+  font-weight: 700;
+}
+
+.card-text{
+  font-family: "Mulish", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+
+.card-custom {
+  width: 280px; /* Customize width */
+  height: 400px; /* Customize height */
+}
+
+.card-row{
+  width: 1000px;
+
+}
+
+.flex2{
+  width: 1000px;
+}
+.flex3{
+  width: 500px;
+}
